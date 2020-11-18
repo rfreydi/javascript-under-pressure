@@ -1,0 +1,23 @@
+#home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10vmin;
+}
+
+#home img {
+    width: 50%;
+    min-width: 600px;
+}
+
+#home h2 {
+    font: inherit;
+    font-size: 5vmin;
+    margin: 5vmin;
+}
+
+#home button {
+    display: block;
+    width: 80%;
+    font-size: 8vmin;
+}
